@@ -37,7 +37,6 @@ Appended Banner to README
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
@@ -47,32 +46,11 @@ Appended Banner to README
 </a>
 </p>
 ### 🤝🏻 &nbsp;Connect with Me
-@AVS1508
-Added details
-2 years ago
-54
-
-55
 <p align="center">
-@AVS1508
-Style changes for README.md - December
-16 months ago
-56
-<a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-57
-<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-58
-<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-59
-<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-60
-<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-61
-<a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
-62
-<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
-@AVS1508
-Added details
-2 years ago
-63
+<a href="https://www.linkedin.com/in/youssef-ettafssaoui-3526991a3/"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:yettafssaoui2@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/youssef_ettafssaoui"><img src="https://img.shields.io/badge/-@youssef_ettafssaoui-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://facebook.com/youssef.ettf.79"><img src="https://img.shields.io/badge/-@Youssef Ettafssaoui1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+
+
 </p>
