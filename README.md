@@ -5,7 +5,7 @@
 
 <!-- ## 👋 &nbsp;Hey there! I'm Youssef -->
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Software engineering at the University of Cadi Ayyad of Marrakech..\
+🎓 &nbsp;I'm currently studying Software engineering at the University of Cadi Ayyad of Marrakech.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence and Systems Design.\
 ✍️ &nbsp;In my free time, I pursue Graphic Design.\
 
