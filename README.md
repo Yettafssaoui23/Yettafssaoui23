@@ -49,10 +49,9 @@ Appended Banner to README
 </p>
 ### 🤝🏻 &nbsp;Connect with Me
 <p align="center">
-<a href="https://www.linkedin.com/in/youssef-ettafssaoui-3526991a3/"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:yettafssaoui2@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/youssef-ettafssaoui-3526991a3/"><img src="https://img.shields.io/badge/-Youssef%20Ettafssaoui-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:yettafssaoui2@gmail.com"><img src="https://img.shields.io/badge/-yettafssaoui2@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/youssef_ettafssaoui"><img src="https://img.shields.io/badge/-@youssef_ettafssaoui-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/youssef.ettf.79"><img src="https://img.shields.io/badge/-@Youssef Ettafssaoui1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-
+<a href="https://facebook.com/youssef.ettf.79"><img src="https://img.shields.io/badge/-@Youssef_Ettafssaoui-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 
 </p>
