@@ -11,7 +11,7 @@ Appended Banner to README
 ✍️ &nbsp;In my free time, I pursue Graphic Design.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 
-✉️ &nbsp;You can shoot me an email at yettafssaoui2@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at yettafssaoui2@gmail.com ! I'll try to respond as soon as I can.\
 
 
 ### 🛠 &nbsp;Tech Stack
@@ -23,6 +23,8 @@ Appended Banner to README
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
+![VueJs](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=Vue.js)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
