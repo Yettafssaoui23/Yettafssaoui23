@@ -4,26 +4,35 @@
 👋 &nbsp;Hey there ! I'm Youssef
 
 <!-- ## 👋 &nbsp;Hey there! I'm Youssef -->
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Software engineering at the University of Cadi Ayyad of Marrakech.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence and Systems Design.\
-✍️ &nbsp;In my free time, I pursue Graphic Design.\
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.
 
-✉️ &nbsp;You can shoot me an email at yettafssaoui2@gmail.com ! I'll try to respond as soon as I can.\
+🎓 &nbsp;I'm currently studying Software engineering at the University of Cadi Ayyad of Marrakech.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Yettafssaoui23" alt="yettafssaoui23" /> </p>
+🌱 &nbsp;I'm on track for learning more about Artificial Intelligence and Systems Design.
 
-### 🛠 &nbsp;Tech Stack
+✍️ &nbsp;In my free time, I pursue Graphic Design.
+
+✉️ &nbsp;You can shoot me an email at yettafssaoui2@gmail.com ! I'll try to respond as soon as I can.
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Yettafssaoui23" alt="yettafssaoui23" /> 
+</p>
+
+### 🛠 &nbsp;Tech Stack :
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart&logoColor=FFA518)&nbsp;
+![PHP](https://img.shields.io/badge/-Php-05122A?style=flat&logo=Php&logoColor=FFA518)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=Laravel&logoColor=FFA518)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
 ![VueJs](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=Vue.js)&nbsp;
+![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=Android)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
@@ -45,6 +54,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yettafssaoui23&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
 ### 🤝🏻 &nbsp;Connect with Me
 <p align="center">
 <a href="https://www.linkedin.com/in/youssef-ettafssaoui-3526991a3/"><img src="https://img.shields.io/badge/-Youssef%20Ettafssaoui-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
