@@ -61,5 +61,4 @@
 <a href="mailto:yettafssaoui2@gmail.com"><img src="https://img.shields.io/badge/-yettafssaoui2@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/youssef_ettafssaoui"><img src="https://img.shields.io/badge/-@youssef_ettafssaoui-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/youssef.ettf.79"><img src="https://img.shields.io/badge/-@Youssef_Ettafssaoui-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-
 </p>
